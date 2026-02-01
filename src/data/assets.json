@@ -1,0 +1,24 @@
+[
+  { "id": "A001", "name": "Dell Laptop", "status": "Available", "assignedTo": "None", "category": "Hardware" },
+  { "id": "A002", "name": "Company Car", "status": "In-Use", "assignedTo": "John", "category": "Vehicle" },
+  { "id": "A003", "name": "Adobe License", "status": "Under Repair", "assignedTo": "IT Team", "category": "Software" },
+  { "id": "A004", "name": "HP Laptop", "status": "Available", "assignedTo": "None", "category": "Hardware" },
+  { "id": "A005", "name": "Office Printer", "status": "In-Use", "assignedTo": "Admin", "category": "Hardware" },
+  { "id": "A006", "name": "Projector", "status": "Available", "assignedTo": "None", "category": "Hardware" },
+  { "id": "A007", "name": "Zoom License", "status": "In-Use", "assignedTo": "Marketing", "category": "Software" },
+  { "id": "A008", "name": "Microsoft Office License", "status": "Available", "assignedTo": "None", "category": "Software" },
+  { "id": "A009", "name": "Warehouse Forklift", "status": "Under Repair", "assignedTo": "Maintenance", "category": "Vehicle" },
+  { "id": "A010", "name": "Company Bike", "status": "Available", "assignedTo": "None", "category": "Vehicle" },
+
+  { "id": "A011", "name": "MacBook Pro", "status": "In-Use", "assignedTo": "Design Team", "category": "Hardware" },
+  { "id": "A012", "name": "Server Rack", "status": "Available", "assignedTo": "IT Department", "category": "Hardware" },
+  { "id": "A013", "name": "Photoshop License", "status": "In-Use", "assignedTo": "Creative Team", "category": "Software" },
+  { "id": "A014", "name": "Slack Premium", "status": "Available", "assignedTo": "None", "category": "Software" },
+  { "id": "A015", "name": "Delivery Van", "status": "In-Use", "assignedTo": "Logistics", "category": "Vehicle" },
+
+  { "id": "A016", "name": "Desktop Computer", "status": "Available", "assignedTo": "None", "category": "Hardware" },
+  { "id": "A017", "name": "Scanner Machine", "status": "Under Repair", "assignedTo": "Admin", "category": "Hardware" },
+  { "id": "A018", "name": "CRM Software License", "status": "In-Use", "assignedTo": "Sales Team", "category": "Software" },
+  { "id": "A019", "name": "Accounting Software", "status": "Available", "assignedTo": "Finance", "category": "Software" },
+  { "id": "A020", "name": "Office SUV", "status": "In-Use", "assignedTo": "Management", "category": "Vehicle" }
+]
