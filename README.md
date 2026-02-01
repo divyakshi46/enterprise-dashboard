@@ -5,6 +5,9 @@ This project is a Business Resource Dashboard built using React and Vite.
 It allows managers to view and manage company assets with filtering, search,
 and detailed views in an ERP-style interface.
 
+## Dashboard Preview 
+![Dashboard Screenshot](Internship proj 1 .png)
+
 ## Technology Stack
 - React.js
 - Vite
