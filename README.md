@@ -1,16 +1,33 @@
-# React + Vite
+# Enterprise Resource Dashboard (Fiori Style)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This project is a Business Resource Dashboard built using React and Vite.
+It allows managers to view and manage company assets with filtering, search,
+and detailed views in an ERP-style interface.
 
-Currently, two official plugins are available:
+## Technology Stack
+- React.js
+- Vite
+- CSS
+- Mock JSON Data
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run
+npm install
+npm run dev
 
-## React Compiler
+## Features
+- Shell Bar with search and user profile
+- Side Navigation menu
+- Asset management data table
+- Status color badges
+- Real-time search
+- Category filtering
+- Detail modal view
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Component Architecture
+Header.jsx - Shell bar  
+Sidebar.jsx - Navigation menu  
+AssetTable.jsx - Data grid  
+FilterBar.jsx - Filtering UI  
+AssetDetail.jsx - Detail modal  
+App.jsx - Main controller
