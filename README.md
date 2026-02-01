@@ -6,7 +6,7 @@ It allows managers to view and manage company assets with filtering, search,
 and detailed views in an ERP-style interface.
 
 ## Dashboard Preview 
-![Dashboard Screenshot](Internship proj 1 .png)
+![Dashboard Screenshot](Internship proj 1.png)
 
 ## Technology Stack
 - React.js
